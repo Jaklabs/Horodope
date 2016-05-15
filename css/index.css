@@ -1,3 +1,6 @@
+html, body {
+	overflow-y: visible;
+}
 .list-container {
 	justify-content: center;
 }

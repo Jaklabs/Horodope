@@ -1,0 +1,12 @@
+{
+	"name": "Horodope",
+	"description": "It's not your ordinary horoscope... you've been warned. ;)",
+	"version": "1.0",
+	"manifest_version": 2,
+	"app": {
+		"background": {
+			"scripts": ["background.js"]
+		}
+	},
+	"icons": {"128": "img/calculator-128.png"}
+}
