@@ -10,4 +10,5 @@ $(document).ready(function() {
 			$(this).addClass('current');
 			$(this).children('.scope').show();
 		}
+	)};
 });
