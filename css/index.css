@@ -14,16 +14,16 @@ html, body {
 	margin: 10px;
 }
 .s1 {
-	background-color: #bbb;
-}
-.s2 {
 	background-color: #000;
 }
+.s2 {
+	background-color: #ff0;
+}
 .s3 {
-	background-color: #0ff;
+	background-color: #f00;
 }
 .s4 {
-	background-color: #00f;
+	background-color: #0f0;
 }
 .scope {
 	display: none;
